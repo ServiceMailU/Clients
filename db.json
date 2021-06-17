@@ -6,7 +6,7 @@
     "createdAt": "date",
     "comments": "Comment[]"
   },
-   {
+   
     "Name": "Joe",
     "CPR": "001",
     "published": "boolean",
