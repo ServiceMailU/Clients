@@ -6,7 +6,7 @@
     "createdAt": "date",
     "comments": "Comment[]"
   },
-  "Employee": {
+  "Employee2": {
     "Name": "Joe",
     "CPR": "001",
     "published": "boolean",
