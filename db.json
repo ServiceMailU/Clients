@@ -7,7 +7,21 @@
     "createdAt": "date",
     "comments": "Comment[]"
   },
-  "Employee1": {
+  "Employee2": {
+    "Name": "Joe",
+    "CPR": "001",
+    "published": "boolean",
+    "createdAt": "date",
+    "comments": "Comment[]"
+  },
+  "Employee3": {
+    "Name": "Joe",
+    "CPR": "001",
+    "published": "boolean",
+    "createdAt": "date",
+    "comments": "Comment[]"
+  },
+  "Employee4": {
     "Name": "Joe",
     "CPR": "001",
     "published": "boolean",
