@@ -8,24 +8,24 @@
     "comments": "Comment[]"
   },
   "Employee2": {
-    "Name": "Joe",
+    "Name": "Rami Hamadi",
     "CPR": "C002",
     "Status": "Active",
     "Balance": "1000",
     "comments": "Comment[]"
   },
   "Employee3": {
-    "Name": "Joe",
-    "CPR": "001",
-    "published": "boolean",
-    "createdAt": "date",
+    "Name": "Rahif Smaysme",
+    "CPR": "C003",
+    "Status": "Active",
+    "Balance": "1000",
     "comments": "Comment[]"
   },
   "Employee4": {
-    "Name": "Joe",
-    "CPR": "001",
-    "published": "boolean",
-    "createdAt": "date",
+    "Name": "Nahi Abou Nassif",
+    "CPR": "C004",
+    "Status": "Active",
+    "Balance": "1000",
     "comments": "Comment[]"
   },
   "Comment": {
