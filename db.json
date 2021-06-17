@@ -4,7 +4,7 @@
     "Name": "Mohamad Beydoun",
     "CPR": "C001",
     "Status": "Active",
-    "Creation Date": "2020-01-01",
+    "createdAt": "date",
     "comments": "Comment[]"
   }
 }
