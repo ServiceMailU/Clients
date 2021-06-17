@@ -6,6 +6,13 @@
     "createdAt": "date",
     "comments": "Comment[]"
   },
+   {
+    "Name": "Karim",
+    "CPR": "002",
+    "published": "boolean",
+    "createdAt": "date",
+    "comments": "Comment[]"
+  }
   "Comment": {
     "body": "string",
     "post": "Post"
