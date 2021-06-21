@@ -4,28 +4,28 @@
     "Name": "Mohamad Beydoun",
     "CPR": "C001",
     "Status": "Active",
-    "Balance": "10000",
+    "Balance": "11000",
     "comments": "Comment[]"
   },
   "C002": {
     "Name": "Rami Hamadi",
     "CPR": "C002",
     "Status": "Active",
-    "Balance": "1000",
+    "Balance": "1650",
     "comments": "Comment[]"
   },
   "C003": {
     "Name": "Rahif Smaysme",
     "CPR": "C003",
     "Status": "Active",
-    "Balance": "1000",
+    "Balance": "8700",
     "comments": "Comment[]"
   },
   "C004": {
     "Name": "Nahi Abou Nassif",
     "CPR": "C004",
     "Status": "Active",
-    "Balance": "1000",
+    "Balance": "8800",
     "comments": "Comment[]"
   },
   "Comment": {
