@@ -18,14 +18,14 @@
     "Name": "Rahif Smaysme",
     "CPR": "C003",
     "Status": "Active",
-    "Balance": "5600"
+    "Balance": "5600",
     "comments": "Comment[]"
   },
   "C004": {
     "Name": "Nahi Abou Nassif",
     "CPR": "C004",
     "Status": "Active",
-    "Balance": "7600"
+    "Balance": "7600",
     "comments": "Comment[]"
   },
   "Comment": {
